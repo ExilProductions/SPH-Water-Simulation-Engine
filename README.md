@@ -1,13 +1,6 @@
 # SPH Water Simulation Engine
 
-The **SPH Water Simulation Engine** is a high-performance fluid simulation engine built using C++ and CMake. It employs Smoothed Particle Hydrodynamics (SPH) to simulate realistic fluid dynamics, making it ideal for physics-based simulations, games, and research projects.
-
-## Features
-
-- **Smoothed Particle Hydrodynamics (SPH)**: Utilizes SPH for accurate and realistic fluid simulation.
-- **High Performance**: Optimized C++ implementation for real-time applications.
-- **Customizable**: Modular design to easily integrate into larger projects or adapt for specific requirements.
-- **Cross-Platform**: Built with CMake for easy compilation on Windows, macOS, and Linux.
+The **SPH Water Simulation Engine** is a fluid simulation engine built using C++. It employs Smoothed Particle Hydrodynamics (SPH) to simulate fluid dynamics, making it ideal for physics-based simulations, games, and research projects.
 
 ## Getting Started
 
